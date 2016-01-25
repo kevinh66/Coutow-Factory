@@ -1,0 +1,35 @@
+body {
+  padding-top: 10px;
+}
+
+h2 {
+	
+margin: 2px;
+	
+}
+
+[class*="col-"], footer {
+  background-color: lightgrey;
+  border: 2px solid black;
+  border-radius: 6px;
+  line-height: 25px;
+}
+
+.espace { 
+
+margin-top : 20px;
+
+}
+
+article.bottom{
+	
+text-align: center;
+padding: 5px;
+	
+}
+
+a:link {
+	
+color: green;
+
+}
